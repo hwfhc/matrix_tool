@@ -111,3 +111,7 @@ function Matrix(VALUE){
     this.row = this.value.length;
     this.column = this.value[0].length;
   }
+
+function Location(x,y){
+
+}
