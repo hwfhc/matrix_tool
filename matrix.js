@@ -1,3 +1,8 @@
+exports.Create = function(VALUE){
+    var item = new Matrix(VALUE);
+    return item;
+};
+
 function Matrix(VALUE){
     /*
      *效果说明:
