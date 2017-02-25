@@ -1,7 +1,4 @@
-exports.Create = function(VALUE){
-    var item = new Matrix(VALUE);
-    return item;
-};
+module.exports.Create = Matrix;
 
 function Matrix(VALUE){
     /*
