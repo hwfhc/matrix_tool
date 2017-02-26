@@ -1,0 +1,19 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "+ TagGroup + Shape     + TagGroup   + Matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firewaterge/matrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firewaterge/matrix/issues"
+  },
+  "homepage": "https://github.com/firewaterge/matrix#readme"
+}
