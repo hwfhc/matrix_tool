@@ -1,19 +1,19 @@
 {
   "name": "matrix_tool",
   "version": "1.0.0",
-  "description": "+ TagGroup + Shape     + TagGroup   + Matrix",
+  "description": "a little matrix tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/firewaterge/matrix.git"
+    "url": "git+https://github.com/firewaterge/matrix_tool.git"
   },
-  "author": "",
+  "author": "firewaterge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/firewaterge/matrix/issues"
+    "url": "https://github.com/firewaterge/matrix_tool/issues"
   },
-  "homepage": "https://github.com/firewaterge/matrix#readme"
+  "homepage": "https://github.com/firewaterge/matrix_tool#readme"
 }
