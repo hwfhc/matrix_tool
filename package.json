@@ -1,6 +1,6 @@
 {
   "name": "matrix_tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a little matrix tool",
   "main": "index.js",
   "scripts": {
